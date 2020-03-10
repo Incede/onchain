@@ -1,14 +1,14 @@
 # OnChain
 
-1.Pure DEX on Ethereum
+Pure DEX on Ethereum
 
-2.On-chain order book
+On-chain order book
 
-3.Limit Orders
+Limit Orders
 
-4.On-chain order matching
+On-chain order matching
 
-5.Low trading fees
+Low trading fees
 
 # Gas Comparison
 
