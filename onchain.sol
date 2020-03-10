@@ -25,7 +25,7 @@ contract Token {
   event Approval(address indexed _owner, address indexed _spender, uint256 _value);
 }
 
-contract 0trust is SafeMath
+contract onchain is SafeMath
 {
     uint32 public lastTransferId = 1;
     event NewDeposit(uint32 indexed prCode, uint32 indexed accountId, uint128 amount, uint64 timestamp, uint32 lastTransferId);
