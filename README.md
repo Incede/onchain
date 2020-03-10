@@ -1,17 +1,17 @@
 # OnChain
 
-Pure DEX on Ethereum
-On-chain order book
-Limit Orders
-On-chain order matching
-Low trading fees
+1.Pure DEX on Ethereum
+2.On-chain order book
+3.Limit Orders
+4.On-chain order matching
+5.Low trading fees
 
 # Gas Comparison
 
 		      Maker     Taker
-Onchain	  105k	    150-170k
-OasisDex	80-100k	  230-240k
-AmisDex	  82k	      164k-342k
-EtherC	  80-130k	  zero
-Radex	    53k	      151k
-RiverX	  90k	      135k
+	Onchain       105k	170k
+	Oasis	      80k	230k
+	Amis	      82k	165k
+	EtherC	      105k	zero
+	Radex	      53k	151k
+	RiverX	      90k	135k		      
