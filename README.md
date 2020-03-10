@@ -1,9 +1,13 @@
 # OnChain
 
 1.Pure DEX on Ethereum
+
 2.On-chain order book
+
 3.Limit Orders
+
 4.On-chain order matching
+
 5.Low trading fees
 
 # Gas Comparison
